@@ -1,0 +1,5 @@
+{
+    "python.formatting.provider": "black",
+    "code-runner.clearPreviousOutput": false,
+    "code-runner.showExecutionMessage": true
+}
