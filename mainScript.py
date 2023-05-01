@@ -13,7 +13,7 @@ print(f"My name is {name}")
 name="Rishikesh Holey"
 print(f"My name is {name}")
 
-name = "RIshikesh Digamber Hole"
+name = "Rishikesh Digamber Hole"
 print(f"My name is {name}")
 
 a=5
