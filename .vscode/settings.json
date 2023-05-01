@@ -1,5 +1,17 @@
 {
     "python.formatting.provider": "black",
     "code-runner.clearPreviousOutput": false,
-    "code-runner.showExecutionMessage": true
+    "code-runner.showExecutionMessage": true,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./__pycache__",
+        "-p",
+        "*_test.py"
+    ],
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestArgs": [
+        "."
+    ]
 }
